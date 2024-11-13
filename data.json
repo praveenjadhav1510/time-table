@@ -1,0 +1,172 @@
+{
+  "timetable": {
+    "Monday": [
+      {
+        "name": "Cyber Security",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "type": "Lecture"
+      },
+      {
+        "name": "Software Testing",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "type": "Lecture"
+      },
+      {
+        "name": "Digital Marketing",
+        "startTime": "12:00",
+        "endTime": "01:00",
+        "type": "Lecture"
+      },
+      {
+        "name": "Android",
+        "startTime": "02:00",
+        "endTime": "03:00",
+        "type": "Lecture"
+      },
+      {
+        "name": "Software Testing",
+        "startTime": "4:00",
+        "endTime": "5:30",
+        "type": "Lab"
+      }
+    ],
+    "Tuesday": [
+      {
+        "name": "Cyber Security",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "type": "Lecture"
+      },
+      {
+        "name": "Software Testing",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "type": "Lecture"
+      },
+      {
+        "name": "Android",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "type": "Lecture"
+      },
+      {
+        "name": "Data Mining",
+        "startTime": "12:00",
+        "endTime": "01:00",
+        "type": "Lecture"
+      },
+      {
+        "name": "Digital Marketing",
+        "startTime": "02:00",
+        "endTime": "03:00",
+        "type": "Lecture"
+      }
+    ],
+    "Wednesday": [
+      {
+        "name": "Data Mining",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "type": "Lecture"
+      },
+      {
+        "name": "Android",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "type": "Lecture"
+      },
+      {
+        "name": "Cyber Security",
+        "startTime": "12:00",
+        "endTime": "01:00",
+        "type": "Activity"
+      },
+      {
+        "name": "Student Activity",
+        "startTime": "02:00",
+        "endTime": "03:00",
+        "type": "Activity"
+      }
+    ],
+    "Thursday": [
+      {
+        "name": "Android",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "type": "Lecture"
+      },
+      {
+        "name": "Cyber Security",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "type": "Lecture"
+      },
+      {
+        "name": "Student Activity",
+        "startTime": "12:00",
+        "endTime": "1:00",
+        "type": "Activity"
+      }
+    ],
+    "Friday": [
+      {
+        "name": "Software Testing",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "type": "Lecture"
+      },
+      {
+        "name": "Data Mining",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "type": "Lecture"
+      },
+      {
+        "name": "Digital Marketing",
+        "startTime": "12:00",
+        "endTime": "01:00",
+        "type": "Lecture"
+      },
+      {
+        "name": "Android Lab",
+        "startTime": "2:00",
+        "endTime": "3:30",
+        "type": "Lab"
+      }
+    ],
+    "Saturday": [
+      {
+        "name": "Software Testing",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "type": "Lecture"
+      },
+      {
+        "name": "Data Mining",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "type": "Lecture"
+      },
+      {
+        "name": "Digital Marketing",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "type": "Lecture"
+      },
+      {
+        "name": "Movie Screening",
+        "startTime": "12:00",
+        "endTime": "01:00",
+        "type": "Activity"
+      },
+      {
+        "name": "Android/ST",
+        "startTime": "1:00",
+        "endTime": "3:30",
+        "type": "Lab"
+      }
+    ]
+  }
+}
